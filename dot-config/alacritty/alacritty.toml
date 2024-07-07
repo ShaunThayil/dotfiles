@@ -1,0 +1,6 @@
+[window]
+startup_mode = "Windowed"
+
+[font.normal]
+family = "SauceCodePro NF"
+style = "Regular"

@@ -2,10 +2,7 @@
 
 For more info on stow checkout the man page `man stow`.
 
-Note:
-`
-README and LISCENSE won't be stowed [ref](https://www.gnu.org/software/stow/manual/html_node/Types-And-Syntax-Of-Ignore-Lists.html)
-`
+Note: `README.md` and `LICENSE` won't be stowed [ref](https://www.gnu.org/software/stow/manual/html_node/Types-And-Syntax-Of-Ignore-Lists.html)
 
 ## Prerequisites
 
